@@ -17,7 +17,7 @@ Set app version
 
 Set applitool api key
 
-``` export APPLITOOL_API_KEY=fSLD4dNYYaVz1ZrkZkV30vFAaHVRa16Qdajf0vr0nKY110 ```
+``` export APPLITOOL_API_KEY=... ```
 
 Command to run the test
 
